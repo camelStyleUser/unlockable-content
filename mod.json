@@ -1,0 +1,8 @@
+{
+"name":"unlockable-content",
+"displayName":"UnlockableContent",
+"description":"dont you love some js",
+"version":"0",
+"minGameVersion":"136",
+"hidden":true
+}
